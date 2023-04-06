@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "334513007663",
+    "firebase_url": "https://meworld-329f3-default-rtdb.firebaseio.com",
+    "project_id": "meworld-329f3",
+    "storage_bucket": "meworld-329f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334513007663:android:78ba4f3b9d0c261be26ada",
+        "android_client_info": {
+          "package_name": "com.example.gatevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334513007663-fmupqt7iq2j8i46m3c1r1tpg4n9pdqla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzlIsSdNYvKFCnoE6RzXgHhRv-kJriDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334513007663-fmupqt7iq2j8i46m3c1r1tpg4n9pdqla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334513007663-geg2hlg77srh9tjuuq0iadlu2gdvsu5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meworld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334513007663:android:c9b6faee8e6f3b9de26ada",
+        "android_client_info": {
+          "package_name": "com.example.meworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334513007663-fmupqt7iq2j8i46m3c1r1tpg4n9pdqla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzlIsSdNYvKFCnoE6RzXgHhRv-kJriDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334513007663-fmupqt7iq2j8i46m3c1r1tpg4n9pdqla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334513007663-geg2hlg77srh9tjuuq0iadlu2gdvsu5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meworld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
